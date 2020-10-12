@@ -1,6 +1,6 @@
 # 2020kaggle_Google-QUEST-Q-A-Labeling
 kaggle: Google QUEST Q&amp;A Labeling 第五名
-链接：https://www.kaggle.com/c/google-quest-challenge/overview
+#链接：https://www.kaggle.com/c/google-quest-challenge/overview
 
 First of all I want to thank my teammates here.I will briefly introduce our solution here.
 
